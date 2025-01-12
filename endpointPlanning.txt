@@ -1,0 +1,5 @@
+//endpoint to get all the campus names
+//get all departments given the campusID
+//get the manager for that department given the departmentID
+//get all the rooms for that department given the department id 
+//get all safety_checks for those rooms given the room id
